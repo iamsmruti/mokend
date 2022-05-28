@@ -1,6 +1,7 @@
 {
     "courses": [
         {
+            "id": 1,
             "title": "ReactJS",
             "category": "Web Development",
             "level": "Beginner",
@@ -10,6 +11,7 @@
             "estimated_time": 2 
         },
         {
+            "id": 2,
             "title": "NodeJS",
             "category": "Web Development",
             "level": "Beginner",
@@ -19,24 +21,7 @@
             "estimated_time": 2 
         },
         {
-            "title": "ReactJS",
-            "category": "Web Development",
-            "level": "Beginner",
-            "pricing": 0,
-            "enrolled": 100,
-            "author": "Smruti Ranjan",
-            "estimated_time": 2 
-        },
-        {
-            "title": "NodeJS",
-            "category": "Web Development",
-            "level": "Beginner",
-            "pricing": 200,
-            "enrolled": 100,
-            "author": "Smruti Ranjan",
-            "estimated_time": 2 
-        },
-        {
+            "id": 3,
             "title": "JavaScript 101",
             "category": "Web Development",
             "level": "Intermediate",
@@ -46,22 +31,44 @@
             "estimated_time": 2 
         },
         {
-            "title": "NodeJS",
+            "id": 4,
+            "title": "API development",
             "category": "Web Development",
             "level": "Beginner",
-            "pricing": 200,
+            "pricing": 500,
             "enrolled": 100,
             "author": "Smruti Ranjan",
             "estimated_time": 2 
         },
         {
-            "title": "JavaScript 101",
-            "category": "Web Development",
-            "level": "Intermediate",
-            "pricing": 0,
+            "id": 5,
+            "title": "Speak Good English",
+            "category": "English",
+            "level": "Beginner",
+            "pricing": 500,
             "enrolled": 100,
             "author": "Smruti Ranjan",
             "estimated_time": 2 
+        },
+        {
+            "id": 6,
+            "title": "System Designing",
+            "category": "Engineering",
+            "level": "Beginner",
+            "pricing": 500,
+            "enrolled": 50,
+            "author": "Smruti Ranjan",
+            "estimated_time": 10
+        },
+        {
+            "id": 7,
+            "title": "Learn Python",
+            "category": "Programming",
+            "level": "Beginner",
+            "pricing": 200,
+            "enrolled": 100,
+            "author": "Smruti Ranjan",
+            "estimated_time": 5
         }
     ],
     "instructors" : [
